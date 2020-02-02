@@ -1,0 +1,15 @@
+2019-12-18 16:40:09,132 - SR_Data_Inserstion - INFO - Data Insertion Started
+2019-12-18 16:40:09,132 - SR_Data_Inserstion - INFO - ========================================================================
+2019-12-18 16:40:09,132 - SR_Data_Inserstion - INFO - we are going for >> 2019-12-16
+2019-12-18 16:40:09,132 - SR_Data_Inserstion - INFO - getting the data
+2019-12-18 16:40:41,987 - SR_Data_Inserstion - INFO - preprocessing the data
+2019-12-18 16:40:41,987 - SR_Data_Inserstion - INFO - in the AP section
+2019-12-18 16:40:42,018 - SR_Data_Inserstion - INFO - into the insert_data function
+2019-12-18 16:40:46,848 - SR_Data_Inserstion - INFO - {'status': 'success', 'message': 'Data Inserted Successfully'}
+2019-12-18 16:40:46,848 - SR_Data_Inserstion - INFO - we are going for >> 2019-12-17
+2019-12-18 16:40:46,848 - SR_Data_Inserstion - INFO - getting the data
+2019-12-18 16:41:20,383 - SR_Data_Inserstion - INFO - preprocessing the data
+2019-12-18 16:41:20,383 - SR_Data_Inserstion - INFO - in the AP section
+2019-12-18 16:41:20,414 - SR_Data_Inserstion - INFO - into the insert_data function
+2019-12-18 16:41:20,883 - SR_Data_Inserstion - INFO - {'status': 'success', 'message': 'Data Inserted Successfully'}
+2019-12-18 16:41:20,883 - SR_Data_Inserstion - INFO - ========================================================================

@@ -1,0 +1,28 @@
+2019-12-18 16:45:02,714 - ER_Data_Inserstion - INFO - Data Insertion Started
+2019-12-18 16:45:02,714 - ER_Data_Inserstion - INFO - ========================================================================
+2019-12-18 16:45:02,714 - ER_Data_Inserstion - INFO - we are going for >> 2019-12-16
+2019-12-18 16:45:02,714 - ER_Data_Inserstion - INFO - getting the data
+2019-12-18 16:45:29,423 - ER_Data_Inserstion - INFO - preprocessing the data
+2019-12-18 16:45:29,423 - ER_Data_Inserstion - INFO - in the AP section
+2019-12-18 16:45:29,438 - ER_Data_Inserstion - INFO - into the insert_data function
+2019-12-18 16:45:29,954 - ER_Data_Inserstion - INFO - {'status': 'success', 'message': 'Data Inserted Successfully'}
+2019-12-18 16:45:29,954 - ER_Data_Inserstion - INFO - we are going for >> 2019-12-17
+2019-12-18 16:45:29,954 - ER_Data_Inserstion - INFO - getting the data
+2019-12-18 16:45:58,068 - ER_Data_Inserstion - INFO - preprocessing the data
+2019-12-18 16:45:58,068 - ER_Data_Inserstion - INFO - in the AP section
+2019-12-18 16:45:58,084 - ER_Data_Inserstion - INFO - into the insert_data function
+2019-12-18 16:45:58,537 - ER_Data_Inserstion - INFO - {'status': 'success', 'message': 'Data Inserted Successfully'}
+2019-12-18 16:45:58,537 - ER_Data_Inserstion - INFO - ========================================================================
+2019-12-18 16:58:54,560 - ER_Data_Inserstion - INFO - Data Insertion Started
+2019-12-18 16:58:54,575 - ER_Data_Inserstion - INFO - ========================================================================
+2019-12-18 16:58:54,575 - ER_Data_Inserstion - INFO - we are going for >> 2019-12-16
+2019-12-18 16:58:54,575 - ER_Data_Inserstion - INFO - getting the data
+2019-12-18 16:59:03,340 - ER_Data_Inserstion - INFO - preprocessing the data
+2019-12-18 16:59:03,372 - ER_Data_Inserstion - INFO - into the insert_data function
+2019-12-18 16:59:03,965 - ER_Data_Inserstion - INFO - {'status': 'success', 'message': 'Data Inserted Successfully'}
+2019-12-18 16:59:03,965 - ER_Data_Inserstion - INFO - we are going for >> 2019-12-17
+2019-12-18 16:59:03,965 - ER_Data_Inserstion - INFO - getting the data
+2019-12-18 16:59:11,586 - ER_Data_Inserstion - INFO - preprocessing the data
+2019-12-18 16:59:11,602 - ER_Data_Inserstion - INFO - into the insert_data function
+2019-12-18 16:59:12,127 - ER_Data_Inserstion - INFO - {'status': 'success', 'message': 'Data Inserted Successfully'}
+2019-12-18 16:59:12,127 - ER_Data_Inserstion - INFO - ========================================================================

@@ -1,0 +1,13 @@
+2019-12-18 16:32:12,275 - NR_Data_Inserstion - INFO - Data Insertion Started
+2019-12-18 16:32:21,496 - NR_Data_Inserstion - INFO - ========================================================================
+2019-12-18 16:32:21,496 - NR_Data_Inserstion - INFO - we are going for >> 2019-12-16
+2019-12-18 16:32:21,496 - NR_Data_Inserstion - INFO - getting the data
+2019-12-18 16:32:29,792 - NR_Data_Inserstion - INFO - preprocessing the data
+2019-12-18 16:32:29,823 - NR_Data_Inserstion - INFO - into the insert_data function
+2019-12-18 16:32:30,323 - NR_Data_Inserstion - INFO - {'status': 'success', 'message': 'Data Inserted Successfully'}
+2019-12-18 16:32:30,323 - NR_Data_Inserstion - INFO - we are going for >> 2019-12-17
+2019-12-18 16:32:30,323 - NR_Data_Inserstion - INFO - getting the data
+2019-12-18 16:32:37,480 - NR_Data_Inserstion - INFO - preprocessing the data
+2019-12-18 16:32:37,511 - NR_Data_Inserstion - INFO - into the insert_data function
+2019-12-18 16:32:38,120 - NR_Data_Inserstion - INFO - {'status': 'success', 'message': 'Data Inserted Successfully'}
+2019-12-18 16:32:38,120 - NR_Data_Inserstion - INFO - ========================================================================
